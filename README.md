@@ -1,6 +1,5 @@
 # phishing-URL-detection-app
 This app detects phishing URL. 
-===========================
 
 Project Organization
 ------------
@@ -84,6 +83,8 @@ phishing-url-detection-app/
 ├── .github/
 │   └── workflows/                         # CI/CD pipelines
 │
-├── docker-compose.yml                     # Multi-container orchestration
-└── README.md                              # Project documentation
+├── docker-compose.yml
+├── README.md
+└── .github/workflows/
+
 ```
