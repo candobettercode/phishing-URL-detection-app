@@ -1,9 +1,6 @@
 # phishing-URL-detection-app
 This app detects phishing URL. 
 
-Project Organization
-------------
-
 # Project Structure
 
 ```text
